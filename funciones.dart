@@ -9,7 +9,7 @@
  *          return returnValue;
  *         }
  * main() es la función de alto nivel que define el inicio de la aplicación 
- * y sigue la siguiente estructura, recuerda que en web no se requieren los argumentos.
+ * y sigue la siguiente estructura, recuerda que en web no se requieren los argumentos:
           void main(List<String> arguments) {
               //code
           }
